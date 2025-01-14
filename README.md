@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @otdoges
-- 👀 I’m interested in python coding (its ai created)
+- 👀 I’m interested in next js 
 - 🌱 I’m currently learning nothing.
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
