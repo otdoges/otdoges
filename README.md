@@ -13,10 +13,6 @@ I'm passionate about technology, open source, and building impressive things tha
 
 ---
 
-
-
----
-
 ## 💼 Skills
 
 - **Languages:** JavaScript, TypeScript, Python, Go, Bash, Rust, C++
