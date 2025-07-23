@@ -15,9 +15,9 @@ I'm passionate about technology, open source, and building impressive things tha
 
 ## 💼 Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Go, Bash, Rust, C++
-- **Frameworks:** React, Next.js, Node.js, Express, Django, Flask, FastAPI
-- **DevOps:** Docker, GitHub Actions, CI/CD, Linux, Cloud (AWS, GCP)
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks:** React, Next.js, Node.js, Express, Django, Flask,
+- **DevOps:** Docker, CI/CD, Linux, Cloud (AWS, GCP)
 - **Extras:** Automation, Scripting, APIs, Testing, Open Source
 
 ---
